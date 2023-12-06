@@ -1,0 +1,17 @@
+{
+  "name": "all-loops",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Find all loops back to a node",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "GetUp Tech Team",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "*",
+    "mocha": "*"
+  }
+}
